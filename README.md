@@ -1,23 +1,30 @@
 <h1 align="center">Welcome to Critical Data Studies 👋</h1>
 <p>
-  <a href="https://twitter.com/ravellaaaaa" target="_blank">
-    <img alt="Twitter: ravellaaaaa" src="https://img.shields.io/twitter/follow/ravellaaaaa.svg?style=social" />
-  </a>
+
 </p>
 
-> A growing compilation of interdisciplinary scholarly and non-scholarly works on critical data studies and critical algorithm studies. Primarily curated as a reading list for research purposes.
+> A growing compilation of interdisciplinary scholarly and non-scholarly works on **critical data studies and critical algorithm studies**. Mostly curated as a reading checklist for research purposes. 😋
 
-## Contributing Guidelines
+## 🤝 Contributing Guidelines
 
-Always open to recommendations and suggestions. Please feel free to tweet at me with them. You can also fork this repo, commit changes to your own branch, and submit a pull request so I can review your additions. Thank you for your interest! :)
+Always open to recommendations and collaborations. Please feel free to tweet at me. You can also:
+<br>
+
+ 1. **Fork** the repo on GitHub.
+ 2. **Clone** the project to your own machine.
+ 3. **Commit** changes to your own branch.
+ 4. **Push** your work back up to your fork.
+ 5. Submit a **Pull request** so I can review your additions.
+
+*NOTE: Be sure to merge the latest from "upstream" before making a pull request.*
+
+Thank you for your interest! ⭐️
 
 ## Curator
 
 👤 **Neha Ravella**
 
-* Twitter: [@ravellaaaaa](https://twitter.com/ravellaaaaa)
-* Github: [@nkravella](https://github.com/nkravella)
+<a href="https://twitter.com/ravellaaaaa" target="_blank">
+    <img alt="Twitter: ravellaaaaa" src="https://img.shields.io/twitter/follow/ravellaaaaa.svg?style=social" />
+</a>
 
-## Show your support
-
-Give a ⭐️ if you found this useful!
